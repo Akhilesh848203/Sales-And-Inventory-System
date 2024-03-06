@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.crm.genericUtils.WebDriverUtils;
 
-public class CustomerModulePage extends WebDriverUtils
+public class CustomerModulePage
 {
 	
 	//Decleratin
